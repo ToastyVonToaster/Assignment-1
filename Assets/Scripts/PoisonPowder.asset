@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8353a0c9651088d4783573cd2f989758, type: 3}
+  m_Name: PoisonPowder
+  m_EditorClassIdentifier: 
+  name: Poison Powder
+  description: Blast a cloud of toxic gas forward at your enemies. Has chance to afflict
+    target with poison.
+  cost: 25
+  cooldown: 15
+  particles: {fileID: 4284702549322420452, guid: 6874eca62d157f34291d4b6e58a334a9,
+    type: 3}
